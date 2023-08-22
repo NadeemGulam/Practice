@@ -1,0 +1,17 @@
+.coursel {
+    background: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:100vh
+  }
+  
+
+  .slide{
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    width: 300px;
+  }
+
+  

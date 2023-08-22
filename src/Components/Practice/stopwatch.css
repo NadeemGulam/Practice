@@ -1,0 +1,11 @@
+.clock{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.buttons button{
+    margin: 10px;
+}

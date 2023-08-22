@@ -1,0 +1,42 @@
+.main_container{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 70vh;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    background: blue;
+    height: 300px;
+    width: 900px;
+    flex-direction: column;
+}
+
+.container h3{
+    color: white;
+    margin-top: 20px;
+}
+
+.question{
+   display: block;
+    background: white;
+    height: 50px;
+    width:700px;
+    border-radius:10px;
+
+}
+
+.question span{
+    padding-left: 50px;
+    
+}
+.question svg{
+    color:black;
+    float: right;
+    display: flex;
+    flex-direction: column;
+}
+
